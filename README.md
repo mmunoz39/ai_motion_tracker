@@ -1,4 +1,4 @@
-# HomeTeam AI Assignment
+# AI Motion Tracker
 
 ## Project Overview
 
