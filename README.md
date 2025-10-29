@@ -75,3 +75,7 @@ pip install opencv-python
 - Add real-time object detection (like ball or player tracking).
 - Export side-by-side video: full frame vs. cropped viewport.
 - Add audio and display overlays like match score or time.
+
+## License
+This project is provided for educational and demonstration purposes.
+Feel free to fork, clone or contribute!
